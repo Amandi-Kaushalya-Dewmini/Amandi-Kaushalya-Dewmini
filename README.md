@@ -36,13 +36,13 @@ dewmikaushalya1234@gmail.com
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cs,python,js,php,dart" />
+<img src="https://skillicons.dev/icons?i=java,cs,python,php,js,dart"/><br>
 </p>
 
 ### Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/><br>
 </p>
 
 ### Backend Development
@@ -124,30 +124,6 @@ PHP • MySQL • HTML • CSS • JavaScript
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amandi-Kaushalya-Dewmini&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandi-Kaushalya-Dewmini&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi-Kaushalya-Dewmini&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amandi-Kaushalya-Dewmini&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -178,9 +154,6 @@ PHP • MySQL • HTML • CSS • JavaScript
 
 ---
 
-<p align="center">
-⭐ Thank you for visiting my profile! ⭐
-</p>
 
 <p align="center">
 
