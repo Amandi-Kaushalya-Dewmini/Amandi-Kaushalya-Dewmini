@@ -1,31 +1,188 @@
-# Hi 👋, I'm Amandi Kaushalya Dewmini
+<h1 align="center">Hi 👋, I'm Amandi Kaushalya Dewmini</h1>
 
-### Web Development | Software Development
+<h3 align="center">
+💻 Software Engineering Student | Flutter Developer | Full Stack Web Developer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amandi-Kaushalya-Dewmini&label=Profile%20views&color=0e75b6&style=flat" alt="Amandi-Kaushalya-Dewmini" /> </p>
-
-<p align="left"> <a href="https://www.flaticon.com/free-icon/github_2111432"><img src="https://github-profile-trophy.vercel.app/?username=Amandi-Kaushalya-Dewmini" alt="Amandi-Kaushalya-Dewmini" /></a> </p>
-
-- 📫 How to reach me **dewmikaushalya1234@gmail.com**
-
-### Connect with me:
-<p align="left">
-<a href="www.linkedin.com/in/amandi-kaushalya-dewmini-4059b5352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amandi_Kaushalya" height="30" width="40" /></a>
-<a href="https://web.facebook.com/amandi.kaushalya.517185" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/amandi_kaushalya_27/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="30" width="40" /></a>
+<p align="center">
+Passionate about building modern, scalable, and user-friendly web and mobile applications while continuously learning new technologies and software engineering best practices.
 </p>
 
-### Languages and Tools:
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/> </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Flutter_logo.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Java_%28programming_language%29" alt="flutter" width="40" height="40"/> </a>
-  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Amandi-Kaushalya-Dewmini&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amandi-Kaushalya-Dewmini&show_icons=true&locale=en" alt="Amandi-Kaushalya-Dewmini" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi-Kaushalya-Dewmini&" alt="Amandi-Kaushalya-Dewmini" /></p>
+# 👩‍💻 About Me
+
+🎓 Higher National Diploma in Information Technology (HNDIT) Student at **SLIATE**
+
+🚀 Passionate about Software Engineering, Mobile App Development, and Full Stack Development.
+
+🌱 Currently improving my knowledge in
+
+- Flutter
+- React
+- Node.js
+- REST APIs
+- Software Architecture
+
+💡 I enjoy solving real-world problems through clean and efficient software solutions.
+
+📫 **Email**
+
+**dewmikaushalya1234@gmail.com**
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,cs,python,js,php,dart" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,supabase" />
+</p>
+
+### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 📱 GPA Calculator Mobile App
+
+A cross-platform Flutter application designed for university students to calculate Semester GPA and Cumulative GPA accurately.
+
+### Features
+
+- Modern UI
+- Semester GPA Calculation
+- CGPA Calculation
+- Offline Data Storage
+- Responsive Design
+- Fast Performance
+
+**Tech Stack**
+
+Flutter • Dart • Hive
+
+---
+
+## 🏥 Doctor Appointment Management System
+
+A modern doctor appointment management system developed using React and Supabase.
+
+### Features
+
+- Patient Management
+- Doctor Management
+- Appointment Scheduling
+- Payment Management
+- Booking Numbers
+- Reports
+
+**Tech Stack**
+
+React • Supabase • PostgreSQL
+
+---
+
+## 🎓 EDUWIDE Learning Management System
+
+A web-based Learning Management System developed for academic administration.
+
+### Features
+
+- Student Management
+- Lecturer Management
+- Subject Management
+- Authentication
+- Marks Management
+- Admin Dashboard
+
+**Tech Stack**
+
+PHP • MySQL • HTML • CSS • JavaScript
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amandi-Kaushalya-Dewmini&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandi-Kaushalya-Dewmini&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi-Kaushalya-Dewmini&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Amandi-Kaushalya-Dewmini&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Amandi-Kaushalya-Dewmini">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amandi-kaushalya-dewmini-4059b5352">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:dewmikaushalya1234@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/amandi_kaushalya_27/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> *"Every great developer starts with a single line of code. Keep learning, keep building, and never stop improving."*
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
+</p>
