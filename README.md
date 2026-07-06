@@ -5,26 +5,29 @@
 </p>
 
 ---
+## 👩‍💻 About Me
 
-# 👩‍💻 About Me
+🎓 HNDIT Student at SLIATE
 
-🎓 Higher National Diploma in Information Technology (HNDIT) Student at **SLIATE**
+💙 Passionate about Software Engineering and Mobile App Development.
 
-🚀 Passionate about Software Engineering, Mobile App Development, and Full Stack Development.
+📱 Flutter Developer
 
-🌱 Currently improving my knowledge in
+🌐 Full Stack Web Developer
 
-- Flutter
-- React
-- Node.js
-- REST APIs
+💻 Always learning modern technologies and best practices.
+
+🚀 Interested in
+
+- Mobile Application Development
+- Full Stack Development
+- UI/UX Design
 - Software Architecture
+- Cloud Technologies
 
-💡 I enjoy solving real-world problems through clean and efficient software solutions.
+📫 Email
 
-📫 **Email**
-
-**dewmikaushalya1234@gmail.com**
+dewmikaushalya1234@gmail.com
 
 ---
 
