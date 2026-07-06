@@ -186,3 +186,15 @@ PHP • MySQL • HTML • CSS • JavaScript
 <p align="center">
 ⭐ Thank you for visiting my profile! ⭐
 </p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Amandi-Kaushalya-Dewmini/Amandi-Kaushalya-Dewmini/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
