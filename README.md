@@ -65,7 +65,7 @@ Passionate about building modern, scalable, and user-friendly web and mobile app
 ### Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,antigravity,postman" />
 </p>
 
 ---
