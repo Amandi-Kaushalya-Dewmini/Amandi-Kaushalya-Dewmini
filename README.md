@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amandi Kaushalya Dewmini</h1>
 
-<h3 align="center">
-💻 Software Engineering Student | Flutter Developer | Full Stack Web Developer
-</h3>
-
 <p align="center">
-Passionate about building modern, scalable, and user-friendly web and mobile applications while continuously learning new technologies and software engineering best practices.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amandi-Kaushalya-Dewmini&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Flutter+Developer;Full+Stack+Developer;Always+Learning+New+Technologies;Building+Modern+Applications" />
 </p>
 
 ---
